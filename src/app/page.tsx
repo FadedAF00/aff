@@ -93,7 +93,7 @@ export default function Home() {
               <span className="text-yellow-400">★★★★★</span>
               <span className="text-sm ml-2 text-gray-300">4.8/5</span>
             </div>
-            <p className="italic text-sm text-gray-400">"This product changed my life! Highly recommend."</p>
+            <p className="italic text-sm text-gray-400">This product changed my life! Highly recommend.</p>
           </div>
           <button className="bg-yellow-500 hover:bg-yellow-600 text-white py-3 px-6 rounded-full transition-all hover:scale-110 shadow-lg">
             Learn More
