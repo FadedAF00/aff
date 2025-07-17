@@ -68,7 +68,7 @@ export default function Home() {
           </div>
           <div className="bg-gray-700 p-6 rounded-lg shadow-lg transition-transform transform hover:scale-105">
             <h3 className="text-xl font-semibold mb-4 text-blue-400">Exclusive Offers</h3>
-            <p className="text-gray-300">Access deals and discounts you won’t find elsewhere.</p>
+            <p className="text-gray-300">Access deals and discounts you won&apos;t find elsewhere.</p>
           </div>
           <div className="bg-gray-700 p-6 rounded-lg shadow-lg transition-transform transform hover:scale-105">
             <h3 className="text-xl font-semibold mb-4 text-blue-400">Trusted by Thousands</h3>
@@ -93,7 +93,7 @@ export default function Home() {
               <span className="text-yellow-400">★★★★★</span>
               <span className="text-sm ml-2 text-gray-300">4.8/5</span>
             </div>
-            <p className="italic text-sm text-gray-400">This product changed my life! Highly recommend.</p>
+            <p className="italic text-sm text-gray-400">&ldquo;This product changed my life! Highly recommend.&rdquo;</p>
           </div>
           <button className="bg-yellow-500 hover:bg-yellow-600 text-white py-3 px-6 rounded-full transition-all hover:scale-110 shadow-lg">
             Learn More
