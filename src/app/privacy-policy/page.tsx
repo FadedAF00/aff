@@ -4,7 +4,7 @@ export default function PrivacyPolicy() {
       <h1 className="text-2xl font-bold">Privacy Policy</h1>
       <p>Effective Date: 19 July 2025</p>
 
-      <p>This Privacy Policy outlines how [Your Company Name] ("we," "us," or "our") collects, uses, maintains, and discloses information collected from users (each, a "User") of the [Your Website URL] website ("Site"). This policy applies to the Site and all products and services offered by [Your Company Name]. We are committed to safeguarding the privacy of our website visitors in accordance with the UK General Data Protection Regulation (UK GDPR), the EU General Data Protection Regulation (EU GDPR), and the Privacy and Electronic Communications Regulations (PECR).</p>
+      <p>This Privacy Policy outlines how [Your Company Name] (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects, uses, maintains, and discloses information collected from users (each, a &quot;User&quot;) of the [Your Website URL] website (&quot;Site&quot;). This policy applies to the Site and all products and services offered by [Your Company Name]. We are committed to safeguarding the privacy of our website visitors in accordance with the UK General Data Protection Regulation (UK GDPR), the EU General Data Protection Regulation (EU GDPR), and the Privacy and Electronic Communications Regulations (PECR).</p>
 
       <h2 className="text-xl font-bold mt-4">1. Data Controller</h2>
       <p>The data controller for our website is [Your Company Name], a company registered in [Country of Registration] with registration number [Your Company Registration Number]. Our registered office is at [Your Registered Office Address]. You can contact us regarding any data protection matters at [Your Email Address] or by post to the address above.</p>
@@ -79,7 +79,7 @@ export default function PrivacyPolicy() {
       <p>Should we need to transfer your data outside of the UK/EU, we will ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:</p>
       <ul className="list-disc ml-8">
         <li>We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the UK Government and/or the European Commission.</li>
-        <li>Where we use certain service providers, we may use specific contracts approved by the UK Information Commissioner's Office or the European Commission which give personal data the same protection it has in the UK and Europe. These are known as Standard Contractual Clauses.</li>
+        <li>Where we use certain service providers, we may use specific contracts approved by the UK Information Commissioner&apos;s Office or the European Commission which give personal data the same protection it has in the UK and Europe. These are known as Standard Contractual Clauses.</li>
       </ul>
 
       <h2 className="text-xl font-bold mt-4">8. Data Security</h2>
@@ -113,7 +113,7 @@ export default function PrivacyPolicy() {
       <h2 className="text-xl font-bold mt-4">12. How to Complain</h2>
       <p>If you have any concerns about our use of your personal information, you can make a complaint to us at [Your Email Address].</p>
 
-      <p>You can also complain to the Information Commissioner's Office (ICO) if you are unhappy with how we have used your data.</p>
+      <p>You can also complain to the Information Commissioner&apos;s Office (ICO) if you are unhappy with how we have used your data.</p>
 
       <p>The ICO’s address:</p>
       <p>Information Commissioner’s Office</p>

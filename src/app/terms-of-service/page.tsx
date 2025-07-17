@@ -7,7 +7,7 @@ export default function TermsOfService() {
       <p>PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING OUR WEBSITE.</p>
 
       <h2 className="text-xl font-bold mt-4">1. Introduction</h2>
-      <p>Welcome to [Your Website Name] ("we," "us," "our"). These Terms of Service ("Terms") govern your access to and use of our website, [Your Website URL], and any content, functionality, and services offered on or through the website (collectively, the "Service").</p>
+      <p>Welcome to [Your Website Name] (&quot;we,&quot; &quot;us,&quot; &quot;our&quot;). These Terms of Service (&quot;Terms&quot;) govern your access to and use of our website, [Your Website URL], and any content, functionality, and services offered on or through the website (collectively, the &quot;Service&quot;).</p>
 
       <p>Our registered office is at [Your Registered Business Address]. We are a company registered in [England and Wales or Scotland, as applicable] under company number [Your Company Number].</p>
 
@@ -37,11 +37,11 @@ export default function TermsOfService() {
       <ul className="list-disc ml-8">
         <li>In any way that violates any applicable national or international law or regulation.</li>
         <li>For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information, or otherwise.</li>
-        <li>To transmit, or procure the sending of, any advertising or promotional material, including any "junk mail," "chain letter," "spam," or any other similar solicitation.</li>
+        <li>To transmit, or procure the sending of, any advertising or promotional material, including any &quot;junk mail,&quot; &quot;chain letter,&quot; &quot;spam,&quot; or any other similar solicitation.</li>
       </ul>
 
       <h2 className="text-xl font-bold mt-4">6. User Contributions</h2>
-      <p>The Service may contain message boards, chat rooms, personal web pages or profiles, forums, bulletin boards, and other interactive features (collectively, "Interactive Services") that allow users to post, submit, publish, display, or transmit to other users or other persons (hereinafter, "post") content or materials (collectively, "User Contributions") on or through the Service.</p>
+      <p>The Service may contain message boards, chat rooms, personal web pages or profiles, forums, bulletin boards, and other interactive features (collectively, &quot;Interactive Services&quot;) that allow users to post, submit, publish, display, or transmit to other users or other persons (hereinafter, &quot;post&quot;) content or materials (collectively, &quot;User Contributions&quot;) on or through the Service.</p>
 
       <p>Any User Contribution you post to the site will be considered non-confidential and non-proprietary. By providing any User Contribution on the Service, you grant us and our affiliates and service providers, and each of their and our respective licensees, successors, and assigns the right to use, reproduce, modify, perform, display, distribute, and otherwise disclose to third parties any such material.</p>
 
@@ -55,13 +55,13 @@ export default function TermsOfService() {
       <p>The owner of the Service is based in the United Kingdom. We provide this Service for use by persons located in the United Kingdom and the European Union. We make no claims that the Service or any of its content is accessible or appropriate outside of the UK or EU.</p>
 
       <h2 className="text-xl font-bold mt-4">10. Disclaimer of Warranties</h2>
-      <p>YOUR USE OF THE SERVICE, ITS CONTENT, AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICE IS AT YOUR OWN RISK. THE SERVICE, ITS CONTENT, AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICE ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.</p>
+      <p>YOUR USE OF THE SERVICE, ITS CONTENT, AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICE IS AT YOUR OWN RISK. THE SERVICE, ITS CONTENT, AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICE ARE PROVIDED ON AN &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.</p>
 
       <h2 className="text-xl font-bold mt-4">11. Limitation on Liability</h2>
       <p>TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL WE, OUR AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE SERVICE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE SERVICE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.</p>
 
       <h2 className="text-xl font-bold mt-4">12. Indemnification</h2>
-      <p>You agree to defend, indemnify, and hold harmless the Company, its affiliates, licensors, and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to your violation of these Terms or your use of the Service.</p>
+      <p>You agree to defend, indemnify, and hold harmless the Company, its affiliates, licensors, and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys&apos; fees) arising out of or relating to your violation of these Terms or your use of the Service.</p>
 
       <h2 className="text-xl font-bold mt-4">13. Governing Law and Jurisdiction</h2>
       <p>All matters relating to the Service and these Terms, and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the laws of England and Wales.</p>
