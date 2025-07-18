@@ -42,7 +42,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center h-screen text-center px-4 bg-gradient-to-b from-gray-900 to-gray-800">
         <h1 className="text-5xl sm:text-7xl font-extrabold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500">
-          Welcome to Your Affiliate Opportunity
+          Upgrade Your Setup for Less | Affordable PC Accessories
         </h1>
         <p className="text-lg sm:text-xl mb-8 text-gray-300">
           Maximize your earnings with our exclusive offers.
